@@ -5,7 +5,7 @@
  
 数据集1： ZRR数据集
 数据集2： ISPW数据集
-数据集3： xiaomi13ultra数据集： 
+数据集3： xiaomi13ultra数据集： 下载链接：链接：https://pan.baidu.com/s/18qSbnlHHiGq3EW4Uv3cG5Q   提取码：9h9r 
 
 ### RAW 图像
 准备一个包含 RAW 图像的数据集，支持的格式有 PNG（最好先转成PNG来存放高bit）, RAW 等。
@@ -38,5 +38,6 @@
 
 
 ### 测试
-
+     python test.py 
 ### 训练
+    python train.py
