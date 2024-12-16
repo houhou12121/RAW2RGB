@@ -4,7 +4,11 @@
 ## 数据集准备
  
 数据集1： ZRR数据集
+https://people.ee.ethz.ch/~ihnatova/pynet.html?utm_source=chatgpt.com
+
 数据集2： ISPW数据集
+Shekhar Tripathi A, Danelljan M, Shukla S, et al. Transform your smartphone into a dslr camera: Learning the isp in the wild[C]//European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022: 625-641.
+
 数据集3： xiaomi13ultra数据集： 下载链接：链接：https://pan.baidu.com/s/18qSbnlHHiGq3EW4Uv3cG5Q   提取码：9h9r 
 
 ### RAW 图像
